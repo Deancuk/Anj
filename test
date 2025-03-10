@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Arena" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/arenapremium.png",Arena Sport 1 Croatia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={9002ec8c3dbc55c5bccdcd6871d80fd0:7099325123bae7810db508727bb0bc7d,c43c83acda60593d8e3607efd5010d7d:526f4a760ef52ab85056fbc10ea27584,712090aae2065c21951b170bc3002330:a97774e4175b80205c3cf104e9574208}
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/arena1_n/default/index.mpd
 
 #EXTINF:-1 group-title="Arena-Sport" tvg-logo="https://i.ibb.co/PMMCbMR/a1x2.png", gxr2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
