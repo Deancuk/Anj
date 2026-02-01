@@ -1,4 +1,21 @@
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=297874&type=drm
+#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/01/22113433-o9gpc7z7uajfgu4o.png" group-title="", Manchester United - Fulham
+http://spacetv.my.id/experimen/ge.mpd?id=297874&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+
+EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/01/22113433-o9gpc7z7uajfgu4o.png" group-title="",Manchester United - Fulham
+http://spacetv.my.id/experimen/ge.mpd?id=297874&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=297878&type=drm
+
+
+#EXTINF:-1 group-title="" tvg-, 23:30 WIB Tottenham Hotspur vs Manchester City (2)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
 
 #EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
