@@ -1,30 +1,22 @@
-EXTINF:-1 group-title="EVENT 08/APRIL/2026" tvg-logo="https://shorter.me/ii84S", 02:00 WIB Real Madrid vs Bayern München
+EXTINF:-1 group-title="test" tvg-logo="https://shorter.me/ii84S", 02:00 WIB Real Madrid vs Bayern München
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ec2147a4b9b1b87ee3d8dc6915bc7928:c84fcd82767a9cd9e2e0c0d1b47a72c5
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uugw0qkwob/out/v1/acfdcf2dabd24075bb615c6c19ba9bd4/cenc.mpd
 
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=297874&type=drm
-#EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/01/22113433-o9gpc7z7uajfgu4o.png" group-title="", Manchester United - Fulham
-http://spacetv.my.id/experimen/ge.mpd?id=297874&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-
-EXTINF:-1 tvg-logo="https://archertv.my.id/gambar/logo.png?url=https://img.dge-prod.dicelaboratory.com/original/2026/01/22113433-o9gpc7z7uajfgu4o.png" group-title="",Manchester United - Fulham
-http://spacetv.my.id/experimen/ge.mpd?id=297874&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/drmge.kt?id=297878&type=drm
-
-
-#EXTINF:-1 group-title="" tvg-, 23:30 WIB Tottenham Hotspur vs Manchester City (2)
+#EXTINF:-1 group-title="test" tvg-, 23:30 WIB Tottenham Hotspur vs Manchester City (2)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
-https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=942b3db5d08871706ddeb9302c4e2a29:d7c25442d9a7b0da9fda160c9dbe1e04
+https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/dash/enc/mitifmm4g9/out/v1/a62499aa43894024a5e9870e16a56732/cenc.mpd
+
+
+
+
 
 #EXTINF:-1 group-logo="" group-title="SEA GAMES" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/998/598998-LOGO-m.png",Sea Games 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
