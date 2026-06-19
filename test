@@ -9,6 +9,7 @@ https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uugw0qkwob/
 
 
 #EXTINF:-1 group-title="test" tvg-, 23:30 WIB Tottenham Hotspur vs Manchester City (2)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=942b3db5d08871706ddeb9302c4e2a29:d7c25442d9a7b0da9fda160c9dbe1e04
