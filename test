@@ -1,4 +1,4 @@
-EXTINF:-1 group-title="test" tvg-logo="https://shorter.me/ii84S", 02:00 WIB Real Madrid vs Bayern München
+#EXTINF:-1 group-title="test" tvg-logo="https://shorter.me/ii84S", 02:00 WIB Real Madrid vs Bayern München
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
